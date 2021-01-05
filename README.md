@@ -1,2 +1,2 @@
-# webdevelopmenttrain.github.io
+# webdevlopmenttrain.github.io
 where i train
