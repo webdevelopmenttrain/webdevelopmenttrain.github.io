@@ -1,0 +1,29 @@
+﻿body {
+    background-color: #c6cecf;
+}
+h1 {
+    color: #7f0b05;
+}
+h2{ color:#17172f;
+    background-color:#e3e3ed;
+}
+header{
+    background-color: #9ba8aa;
+    text-align: center;
+    font-variant:small-caps;
+}
+summary {
+    font-size: 110%;
+    font-style: normal;
+}
+details {
+    font-style:italic;
+}
+nav{
+    font-size:200%;
+}
+footer {
+    background-color: #4e201a;
+        font-size:150%;
+
+}
